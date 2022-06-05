@@ -2,7 +2,7 @@
 PVA using Gompertz Model for Snake River Spring/Summer Chinook Salmon
 Filename | Description
 ---------| -----------
-Gompertz_pva2020.s | R-code to run Gompertz PVA for SRSS Chinook Salmon
+Gompertz_pva2020.R | R-code to run Gompertz PVA for SRSS Chinook Salmon
 Gompertz Extintion Risk-10-30-2020.pdf | R help file
 SPS_Download_DEC042017.csv | Data file used by Gompertz_pva2020.s
 
